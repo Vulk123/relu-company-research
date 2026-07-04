@@ -1,4 +1,4 @@
-# Relu Company Research Assistant
+ Relu Company Research Assistant
 
 An AI-powered Company Research Assistant built for the **Relu Consultancy — AI & Automation Developer** hiring hackathon.
 
@@ -8,9 +8,12 @@ Serper.dev, run AI analysis via OpenRouter, identify competitors, and
 generate a downloadable, professional PDF report — all through a
 ChatGPT-style interface.
 
-**Author:** Gargi Rathore
+Author:Gargi Rathore
 
 ---
+<img width="1919" height="996" alt="Screenshot 2026-07-04 153311" src="https://github.com/user-attachments/assets/d10c9baa-735d-4bf0-803b-69fc2cc62208" />
+<img width="1910" height="950" alt="Screenshot 2026-07-04 161035" src="https://github.com/user-attachments/assets/a1b20805-2a46-482d-8c04-5d77f8a69b35" />
+<img width="637" height="829" alt="Screenshot 2026-07-04 161405" src="https://github.com/user-attachments/assets/315c589d-0b08-420c-9552-178562f3bf2f" />
 
 ## 1. Features
 
